@@ -12,11 +12,11 @@ template: comment.html
         ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-2.jpg)
     --------
     
-    <b>歌曲名称:</b> 不曾存在的我
+    <b>歌曲名称:</b> 地下铁抵抗主义
 
     --------
 
-    <b>日文名称:</b> 僕は存在していなかった
+    <b>日文名称:</b> 地下鉄抵抗主義
 
     ---------
     
