@@ -104,6 +104,13 @@ title: 22/7 计算外 - Season 1
 | 49 | 2025.3.22  | 22/7学院 极度狭小 赏花会（中）              | [中字](https://www.bilibili.com/video/BV1mgZhYSEkk){target=_blank} |
 | 50 | 2025.3.29  | 22/7学院 极度狭小 赏花会（下）              | [中字](https://www.bilibili.com/video/BV1rsdTYNE7E){target=_blank} |
 
-
+## 特典
+| 标题                                                         |                                链接                                |
+|------------------------------------------------------------|:----------------------------------------------------------------:|
+| 评论音轨:一起组乐队吧！(计算外S1E19) VO:相川奈央 西条和 麻丘真央 22/7计算外S1 BD卷2特典   | [生肉](https://www.bilibili.com/video/BV1nuXeBfERg){target=_blank} |
+| 评论音轨-七虹学园极狭赏花会(计算外S1E49) VO:麻丘真央 河濑诗 月城咲舞 22/7计算外S1 BD卷5特典 | [生肉](https://www.bilibili.com/video/BV1KvXaBPE1R){target=_blank} |
+| 未公开影像大披露! 团体对抗美术感悟力大比拼(17集) - 22/7计算外S1 BD3 特典影像           | [生肉](https://www.bilibili.com/video/BV1aMXWBSE5h){target=_blank} |
+| 车内Talk大公开 21集(萌萌毕业) 31/32集(山梨) - 22/7计算外S1 BD4 特典影像        | [中字](https://www.bilibili.com/video/BV1kidABDE6M){target=_blank} |
+| 未公开睡衣Talk合集 - 22/7计算外S1 BD5 特典影像                           | [生肉](https://www.bilibili.com/video/BV1X1XHB1Ewc){target=_blank} |
 
 
