@@ -17,6 +17,7 @@
         {{ disc('YESとNOの間に', '13th Single', '2024.10.30', 'https://nananiji.zzzhxxx.top/assets/photo/songs/single/13th-1.jpg!compress', '/songs/single/13th/') }}
         {{ disc('ロックは死なない', '14th Single', '2025.02.26', 'https://nananiji.zzzhxxx.top/assets/photo/songs/single/14th-1.jpg!compress', '/songs/single/14th/') }}
         {{ disc('あなたでなくちゃ', '15th Single', '2025.07.16', 'https://nananiji.zzzhxxx.top/assets/photo/songs/single/15th-1.jpg!compress', '/songs/single/15th/') }}
+        {{ disc('二つの道', '16th Single', '2026.04.22', 'https://nananiji.zzzhxxx.top/assets/photo/songs/single/16th-1.jpg!compress', '/songs/single/16th/') }}
     </div>
 
 === "专辑 Album"
