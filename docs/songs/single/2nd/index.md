@@ -109,7 +109,7 @@ template: comment.html
 ### 网易云音乐
 
 <meting-js
-        id="待补"
+        id="38273111"
         server="netease"
         order="list"
         type="album"
@@ -121,17 +121,12 @@ template: comment.html
         >
 </meting-js>
 
-### Apple Music
-
-待补
 
 ## 视频
 
 === "Music Video"
-    待补
+    <iframe src="https://player.bilibili.com/player.html?aid=543026844&bvid=BV1Ti4y157Qo&cid=265042201&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Ti4y157Qo){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=79qPHlqistg){ .md-button .md-button--primary }
 
-## 下载
 
-待补
-
-<!-- gitalk -->

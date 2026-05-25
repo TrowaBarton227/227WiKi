@@ -114,4 +114,29 @@ template: comment.html
 
 总时长：28:04
 
-<!-- gitalk -->
+## 试听
+
+### 网易云音乐
+
+<meting-js
+        id="72382727"
+        server="netease"
+        order="list"
+        type="album"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
+
+## 视频
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=458124211&bvid=BV1q5411G7nj&cid=369481376&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1q5411G7nj){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=DB98rK3xnbU){ .md-button .md-button--primary }
+
+
+
