@@ -1,4 +1,4 @@
----
+﻿---
 title: 歌曲 -  Why are you crying ?
 template: comment.html
 ---
@@ -66,9 +66,105 @@ template: comment.html
 
 === "日语"
     <center>
-    待补
-    </center>
+    Why are you crying?
 
+    I'm not sure
+
+    僕にしてみりゃ突然のことで何もできない
+
+    Unexpected
+
+    夕立かのように 涙が溢れていた
+
+    さっきまで ずっと いつものように話していたのに
+
+    微笑みの瞳に言っておこう
+
+    「泣くな」
+
+    Why are you crying?
+
+    君をそんな悲しませるものは? (whoa, whoa, whoa)
+
+    Why are you crying?
+
+    この愛だけじゃ守れないのか? (baby)
+
+    Why are you crying?
+
+    僕はどんな言葉を掛ければいい? (whoa, whoa, whoa)
+
+    I'm into you!
+
+    恋人よ 語ってくれ why are you crying?
+
+    That doesn't matter
+
+    できることなら関係ないって 逃げたいんだけど
+
+    I know everything
+
+    壊れ掛けた君 このままにできない
+
+    その感情の防波堤とは何だったのだろう?
+
+    涙を拭うより言い聞かせよう
+
+    「笑え!」
+
+    Whatcha gonna do?
+
+    僕に何を求めるつもりだい? (whoa, whoa, whoa)
+
+    Whatcha gonna do?
+
+    慰めなんかいらないんじゃないか? (baby)
+
+    Whatcha gonna do?
+
+    理由聞いてみたって無駄になる (whoa, whoa, whoa)
+
+    I guess you're right
+
+    君にしかわからない whatcha gonna do?
+
+    「真実とは?」「偽りとは?」
+
+    「誰も知らない」「自分しか知らない」
+
+    「答え合わせは」「できやしないよ」
+
+    「心のギターを」「鳴らしてくれ!!!」
+
+    さっきまで ずっと いつものように話していたのに
+
+    微笑みの瞳に言っておこう
+
+    「泣くな」
+
+    Why are you crying?
+
+    君をそんな悲しませるものは? (whoa, whoa, whoa)
+
+    Why are you crying?
+
+    この愛だけじゃ守れないのか? (baby)
+
+    Why are you crying?
+
+    僕はどんな言葉を掛ければいい? (whoa, whoa, whoa)
+
+    I'm into you!
+
+    恋人よ 語ってくれ why are you crying?
+
+    Why are you crying? (Whoa, whoa, whoa)
+
+    (Whoa, whoa, whoa)
+
+    I'm crazy about you!
+
+    教えてくれ why are you crying?
 === "翻译"
     <center>
     待补

@@ -1,4 +1,4 @@
----
+﻿---
 title: 歌曲 -  22/7
 template: comment.html
 ---
@@ -68,9 +68,113 @@ template: comment.html
 
 === "日语"
     <center>
-    待补
-    </center>
+    Twenty two on seven
 
+    Twenty two on seven
+
+    Twenty two on, twenty two on, twenty two on seven
+
+    We are 22/7
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu)
+
+    We are 22/7
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu)
+
+    We are 22/7
+
+    割り切れないこの想いを
+
+    形にするならどうなる?
+
+    割り切れない僕たちなら
+
+    できることがあるだろう?
+
+    We are 22/7
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu)
+
+    We are 22/7
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu)
+
+    We are 22/7
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu) we are 22/7
+
+    We, we are 22/7
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu) we are 22/7
+
+    We, we are 22/7
+
+    One, two, three から four, five, six
+
+    次のステージへ進むために今
+
+    Seven, eight, nine の次にあるのは tenth heaven
+
+    Eleven を大幅に超えていくから
+
+    Eighteen, nineteen まだ足りない
+
+    やっぱり望むは未来世界
+
+    Twenty two on seven
+
+    やらせない? 立てない? 気が付かない?
+
+    そんなこと微塵も興味はない
+
+    今この瞬間より向こう側
+
+    変わらない事は簡単だな?
+
+    どうだい?一度計算しないかい?
+
+    未来予知じゃない これは統計
+
+    簡単なことさ 数えればいい
+
+    わかっただろう?答え合わせだ
+
+    Twenty two on seven
+
+    Twenty two on seven
+
+    Twenty two on, twenty two on, twenty two on seven
+
+    Twenty two on seven
+
+    Twenty two on seven
+
+    Twenty two on, twenty two on, twenty two on seven
+
+    We are 22/7
+
+    終わりのないプロセスにも
+
+    意味があることを知ったんだ
+
+    大人たちが切り捨ててた
+
+    小数点の先へ行こう
+
+    We are 22/7
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu)
+
+    We are 22/7
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu)
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu)
+
+    Eh oh eh oh, oh-oh-oh-oh-oh, eh oh (fu)
+
+    We are 22/7
 === "翻译"
     <center>
     待补
