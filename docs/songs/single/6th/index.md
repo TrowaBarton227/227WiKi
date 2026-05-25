@@ -109,4 +109,30 @@ template: comment.html
 
 总时长：27:13
 
+## 试听
+
+### 网易云音乐
+
+<meting-js
+        id="95393869"
+        server="netease"
+        order="list"
+        type="album"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1654708835&bvid=BV1H7421f75F&cid=1544124730&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1H7421f75F){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=Hl1SvbaI0ls){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1854683909&bvid=BV1fs421c7BS&cid=1544128590&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1fs421c7BS){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=PO78JmxBIbM){ .md-button .md-button--primary }
+
 <!-- gitalk -->

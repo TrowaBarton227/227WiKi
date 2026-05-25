@@ -121,4 +121,30 @@ template: comment.html
 | 5.      | 春雷の頃-off vocal ver.- |  |
 | 6.      | 世界中で歌おうぜ-off vocal ver.- |  |
 
+## 试听
+
+### 网易云音乐
+
+<meting-js
+        id="191625699"
+        server="netease"
+        order="list"
+        type="album"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114796288542244&bvid=BV1153Uz4EXD&cid=30855989652&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1153Uz4EXD){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=HwOtrYzcVXo){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789074340884&bvid=BV1uL3uzWEnt&cid=30830757128&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1uL3uzWEnt){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=R54CPPzrAyQ){ .md-button .md-button--primary }
+
 <!-- gitalk -->

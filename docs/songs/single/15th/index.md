@@ -145,4 +145,30 @@ template: comment.html
 | --------| ------------------------------------ | ------- |
 | 1.      | Making of Nagomi Saijo Graduation Memorial Photobook |  |
 
+## 试听
+
+### 网易云音乐
+
+<meting-js
+        id="276451417"
+        server="netease"
+        order="list"
+        type="album"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789040787293&bvid=BV1gG3uzxEf1&cid=30830628052&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1gG3uzxEf1){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=NkmkyggvPns){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789107894951&bvid=BV15K3uz8EN4&cid=30830953466&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV15K3uz8EN4){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=mIZmSfvuLZM){ .md-button .md-button--primary }
+    
 <!-- gitalk -->
