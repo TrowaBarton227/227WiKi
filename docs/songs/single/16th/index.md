@@ -90,11 +90,11 @@ template: comment.html
 
 | No.     | 标题                          | 时长 |
 | --------| ------------------------------------ | -------- |
-| 1.      | 春夏秋冬猛ダッシュ！ |  |
-| 2.      | 愛及証明 |  |
-| 3.      | 陽だまり計画書 |  |
-| 4.      | Crash |  |
-| 5.      | ひとくちぶん |  |
+| 1.      | [:pack-hires: 春夏秋冬猛ダッシュ！](/songs/character/song-10/) |  |
+| 2.      | [:pack-hires: 愛及証明](/songs/character/song-11/) |  |
+| 3.      | [:pack-hires: 陽だまり計画書](/songs/character/song-12/) |  |
+| 4.      | [:pack-hires: Crash](/songs/character/song-13/) |  |
+| 5.      | [:pack-hires: ひとくちぶん](/songs/character/song-14/) |  |
 
 #### Blu-ray
 

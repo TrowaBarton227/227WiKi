@@ -67,15 +67,15 @@ template: comment.html
 
 | No.     | 标题                          | 时长 |
 | --------| ------------------------------------ | -------- |
-| 1.      | One of them | 3:27 |
-| 2.      | 生きることに楽になりたい | 3:52 |
-| 3.      | 夢の船 | 4:02 |
-| 4.      | 優等生じゃつまらない | 3:53 |
-| 5.      | 人生はワルツ | 3:28 |
-| 6.      | 感情無用論 | 3:38 |
-| 7.      | Moonlight | 3:23 |
-| 8.      | 孤独は嫌いじゃない | 4:12 |
-| 9.      | 神様に指を差された僕たち | 4:23 |
+| 1.      | [:pack-hires: One of them](/songs/character/song-1/) | 3:27 |
+| 2.      | [:pack-hires: 生きることに楽になりたい](/songs/character/song-2/) | 3:52 |
+| 3.      | [:pack-hires: 夢の船](/songs/character/song-3/) | 4:02 |
+| 4.      | [:pack-hires: 優等生じゃつまらない](/songs/character/song-4/) | 3:53 |
+| 5.      | [:pack-hires: 人生はワルツ](/songs/character/song-5/) | 3:28 |
+| 6.      | [:pack-hires: 感情無用論](/songs/character/song-6/) | 3:38 |
+| 7.      | [:pack-hires: Moonlight](/songs/character/song-7/) | 3:23 |
+| 8.      | [:pack-hires: 孤独は嫌いじゃない](/songs/character/song-8/) | 4:12 |
+| 9.      | [:pack-hires: 神様に指を差された僕たち](/songs/character/song-9/) | 4:23 |
 
 #### Blu-ray
 
