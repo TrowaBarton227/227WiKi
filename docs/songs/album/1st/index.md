@@ -186,4 +186,34 @@ template: comment.html
 | 10.     | [:pack-hires: 空を飛んでみよう](/songs/album/1st/song-2/) | 4:15 |
 | 11.     | [:pack-hires: 11人が集まった理由](/songs/single/1st/song-3/) | 3:58 |
 
+## 试听
+
+### 网易云音乐
+
+<meting-js
+        id="129989537"
+        server="netease"
+        order="list"
+        type="album"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
+
+<meting-js
+        id="129364258"
+        server="netease"
+        order="list"
+        type="album"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
+
 <!-- gitalk -->

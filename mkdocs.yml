@@ -38,7 +38,7 @@ nav:
           - 宫濑玲奈(佐仓初): member/reina.md
           - 海乃琉璃(吉宫瑠织): member/ruri.md
           - 仓冈水巴(仓丸莉子): member/mizuha.md
-          - 武田爱奈（あいなっち）: member/aina.md
+          - 武田爱奈(あいなっち): member/aina.md
           - 高辻丽(日永丽): member/urara.md
           - 帆风千春(千春): member/chiharu.md
           - 花川芽衣(椛島光): member/mei.md
@@ -180,7 +180,7 @@ nav:
       - 专辑:
           - 名为11的永远的素数:
               - 简介: songs/album/1st/index.md
-              - 歌曲:
+              - 专辑新曲:
                   - 风信子: songs/album/1st/song-1.md
                   - 试着在空中飞翔吧: songs/album/1st/song-2.md
                   - To go请多关照: songs/album/1st/song-3.md
@@ -214,13 +214,20 @@ nav:
               #         - 简介: songs/album/1st/index-bd.md
           - 旅人算:
               - 简介: songs/album/2nd/index.md
+              - 专辑新曲:
+                  - 君とどれくらい会わずにいられるか？: songs/album/2nd/song-1.md
+                  - 世界の矛盾: songs/album/2nd/song-2.md
           - ABC予想:
               - 简介: songs/album/3rd/index.md 
-      - 角色歌:
+              - 专辑新曲:
+                  - スパシーバ！: songs/album/3rd/song-1.md
+                  - 箱庭の世界: songs/album/3rd/song-2.md
+                  - 理論物理学的　僕の推論: songs/album/3rd/song-3.md
+      - 角色曲:
           - 简介: songs/character/index.md
-      - 小组歌:
+      - 分组曲:
           - 简介: songs/unit/index.md
-      - 翻唱歌:
+      - 翻唱曲:
           - 简介: songs/cover/index.md
   - 动画:
       - 简介: anime/index.md
