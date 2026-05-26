@@ -38,7 +38,7 @@ nav:
           - 宫濑玲奈(佐仓初): member/reina.md
           - 海乃琉璃(吉宫瑠织): member/ruri.md
           - 仓冈水巴(仓丸莉子): member/mizuha.md
-          - 武田爱奈（あいなっち）: member/aina.md
+          - 武田爱奈(あいなっち): member/aina.md
           - 高辻丽(日永丽): member/urara.md
           - 帆风千春(千春): member/chiharu.md
           - 花川芽衣(椛島光): member/mei.md
@@ -169,37 +169,82 @@ nav:
                 - 舌打ち: songs/single/15th/song-3.md
                 - 22/7: songs/single/15th/song-4.md
                 - イングリッシュ・ゴールデンレトリバー: songs/single/15th/song-5.md
+          - 二つの道:
+             - 简介: songs/single/16th/index.md
+             - 歌曲:
+                - 二つの道: songs/single/16th/song-1.md
+                - あちこちに残された走り書きの意味: songs/single/16th/song-2.md
+                - 乳酸菌たち: songs/single/16th/song-3.md
+                - 蝉は夏を知らない: songs/single/16th/song-4.md
+                - お姉ちゃんだから: songs/single/16th/song-5.md
       - 专辑:
           - 名为11的永远的素数:
-              - 简介: songs/album/1st/index-disc.md
-              - Disc1:
-                  - 不曾存在的我: songs/single/1st/song-1.md
-                  - 散发出了香波的气息: songs/single/2nd/song-1.md
-                  - 理解者: songs/single/3rd/song-1.md
-                  - 什么都无法为你做到: songs/single/4th/song-1.md
-                  - 太难了: songs/single/5th/song-1.md
-                  - 风在吹吗?: songs/single/6th/song-1.md
-                  - 若是我的所有之物: songs/single/7th/song-1.md
+              - 简介: songs/album/1st/index.md
+              - 专辑新曲:
                   - 风信子: songs/album/1st/song-1.md
                   - 试着在空中飞翔吧: songs/album/1st/song-2.md
-                  - 11人聚集的理由: songs/single/1st/song-3.md
-              - Disc2(角色歌):
-                  - 简介: songs/album/1st/index-disc2.md
-              - Disc3(组合歌):
-                  - 半炒饭: songs/single/6th/song-3.md
                   - To go请多关照: songs/album/1st/song-3.md
-                  - 纹身·爱: songs/single/6th/song-4.md
                   - 交换条件: songs/album/1st/song-4.md
-                  - 冰激凌掉地上: songs/single/6th/song-5.md
                   - 喜欢上你是我的自由: songs/album/1st/song-5.md
-                  - 猕猴桃主张(白组): songs/single/7th/song-4.md
-                  - 雷鸣的Delay(红组): songs/single/7th/song-5.md
-              - BD:
-                  - 简介: songs/album/1st/index-bd.md
+              # - 旧结构:
+              #     - 简介: songs/album/1st/index-disc.md
+              #     - Disc1:
+              #         - 不曾存在的我: songs/single/1st/song-1.md
+              #         - 散发出了香波的气息: songs/single/2nd/song-1.md
+              #         - 理解者: songs/single/3rd/song-1.md
+              #         - 什么都无法为你做到: songs/single/4th/song-1.md
+              #         - 太难了: songs/single/5th/song-1.md
+              #         - 风在吹吗?: songs/single/6th/song-1.md
+              #         - 若是我的所有之物: songs/single/7th/song-1.md
+              #         - 风信子: songs/album/1st/song-1.md
+              #         - 试着在空中飞翔吧: songs/album/1st/song-2.md
+              #         - 11人聚集的理由: songs/single/1st/song-3.md
+              #     - Disc2(角色歌):
+              #         - 简介: songs/album/1st/index-disc2.md
+              #     - Disc3(组合歌):
+              #         - 半炒饭: songs/single/6th/song-3.md
+              #         - To go请多关照: songs/album/1st/song-3.md
+              #         - 纹身·爱: songs/single/6th/song-4.md
+              #         - 交换条件: songs/album/1st/song-4.md
+              #         - 冰激凌掉地上: songs/single/6th/song-5.md
+              #         - 喜欢上你是我的自由: songs/album/1st/song-5.md
+              #         - 猕猴桃主张(白组): songs/single/7th/song-4.md
+              #         - 雷鸣的Delay(红组): songs/single/7th/song-5.md
+              #     - BD:
+              #         - 简介: songs/album/1st/index-bd.md
           - 旅人算:
               - 简介: songs/album/2nd/index.md
+              - 专辑新曲:
+                  - 君とどれくらい会わずにいられるか？: songs/album/2nd/song-1.md
+                  - 世界の矛盾: songs/album/2nd/song-2.md
           - ABC予想:
               - 简介: songs/album/3rd/index.md 
+              - 专辑新曲:
+                  - スパシーバ！: songs/album/3rd/song-1.md
+                  - 箱庭の世界: songs/album/3rd/song-2.md
+                  - 理論物理学的　僕の推論: songs/album/3rd/song-3.md
+      - 角色曲:
+          - 简介: songs/character/index.md
+          - 一期角色曲:
+              - One of them: songs/character/song-1.md
+              - 生きることに楽になりたい: songs/character/song-2.md
+              - 夢の船: songs/character/song-3.md
+              - 優等生じゃつまらない: songs/character/song-4.md
+              - 人生はワルツ: songs/character/song-5.md
+              - 感情無用論: songs/character/song-6.md
+              - Moonlight: songs/character/song-7.md
+              - 孤独は嫌いじゃない: songs/character/song-8.md
+              - 神様に指を差された僕たち: songs/character/song-9.md
+          - 二期角色曲:
+              - 春夏秋冬猛ダッシュ！: songs/character/song-10.md
+              - 愛及証明: songs/character/song-11.md
+              - 陽だまり計画書: songs/character/song-12.md
+              - Crash: songs/character/song-13.md
+              - ひとくちぶん: songs/character/song-14.md
+      - 分组曲:
+          - 简介: songs/unit/index.md
+      - 翻唱曲:
+          - 简介: songs/cover/index.md
   - 动画:
       - 简介: anime/index.md
 
@@ -259,7 +304,7 @@ theme:
     - search.share
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
+    # - navigation.expand
     - navigation.top
     - navigation.indexes
   icon:
