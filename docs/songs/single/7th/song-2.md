@@ -123,5 +123,89 @@ template: comment.html
     それがタチツテトパワー
 === "翻译"
     <center>
-    待补
+    翻译来源：绘理香Erika
+
+    Ta Chi Tsu Te To
+
+    Ta Ta Ta...
+
+    相信的心能推开所有的门
+
+    来试试吧 来吧！
+
+    只知自言自语毫无效果
+
+    气沉丹田大声说出来吧 高声地！
+
+    这个世界充满不讲道理
+
+    完全无法理解
+
+    A行 Ka行 Sa行全都吹飞吧
+
+    Ta Chi Tsu Te To 呐喊吧
+
+    Ta Chi Tsu Te To 竭尽全力
+
+    一定会充满（能量）Ta行的力量
+
+    如果遭遇了危机
+
+    就应当歌唱这五个假名
+
+    这就是Ta Chi Tsu Te To力量
+
+    Ta Ta Ta…
+
+    Ta Ta Ta…
+
+    无论如何都会有痛苦的时刻
+
+    总之一定要加油 好耶！
+
+    光是思考什么也无法开始
+
+    就当是被骗了行动起来吧 好的！
+
+    发现了还未确认的口语
+
+    Na行 Ha行 Ma行走过头了
+
+    Ta Chi Tsu Te To 挺身而起
+
+    Ta Chi Tsu Te To 现在立刻
+
+    我没有认输（擦干眼泪）Ta行真温柔
+
+    这五个假名
+
+    一定会帮助我
+
+    没错 Ta Chi Tsu Te To就是神
+
+    我们的语言连通所有的道路
+
+    勇往直前吧 GO！
+
+    心中迷惘 现在立刻斩断
+
+    只要出声便能获得救赎 没错！
+
+    Ta Chi Tsu Te To 无数次
+
+    Ta Chi Tsu Te To 闭上双眼
+
+    就能感受到（笨蛋的力量） Ta行的魔力
+
+    Ta Chi Tsu Te To 呐喊吧
+
+    Ta Chi Tsu Te To 竭尽全力
+
+    一定会充满（能量） Ta行的力量
+
+    如果遭遇了危机
+
+    就应当歌唱这五个假名
+
+    这就是Ta Chi Tsu Te To力量
     </center>

@@ -1,4 +1,4 @@
----
+﻿---
 title: 歌曲 -  二つの道
 template: comment.html
 ---
@@ -141,7 +141,7 @@ template: comment.html
     互いの夢 手にしてまた会おう
 === "翻译"
     <center>
-    翻译来源：网易云音乐
+    翻译来源：Aki惊蛰
 
     两条道路展现在眼前
 

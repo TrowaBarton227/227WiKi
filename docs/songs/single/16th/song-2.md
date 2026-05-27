@@ -1,4 +1,4 @@
----
+﻿---
 title: 歌曲 -  あちこちに残された走り書きの意味
 template: comment.html
 ---
@@ -170,7 +170,7 @@ template: comment.html
 
 === "翻译"
     <center>
-    翻译来源：网易云音乐
+    翻译来源：放电国中妹
 
     在体育仓库墙上发现的涂鸦
 

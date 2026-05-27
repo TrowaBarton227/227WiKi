@@ -139,8 +139,8 @@ title: 除不尽广播 - 简介
 | 138 | 2023.1.21  |          天城莎莉&凉花萌           | [生肉](https://www.bilibili.com/video/BV1md4y1p7Se){target=_blank} |
 | 139 | 2023.1.28  |         白泽加奈惠&麻丘真央          | [生肉](https://www.bilibili.com/video/BV1Yv4y1k74q){target=_blank} |
 | 140 |  2023.2.4  |         白泽加奈惠&麻丘真央          | [生肉](https://www.bilibili.com/video/BV1RM411e7H8){target=_blank} |
-| 141 | 2023.2.11  |        清井美那&椎名音乐&河濑诗        | [生肉](https://www.bilibili.com/video/BV17Y411i7Pv){target=_blank} |
-| 142 | 2023.2.18  |        清井美那&椎名音乐&河濑诗        | [生肉](https://www.bilibili.com/video/BV1WA41127AC){target=_blank} |
+| 141 | 2023.2.11  |        清井美那&椎名樱月&河濑诗        | [生肉](https://www.bilibili.com/video/BV17Y411i7Pv){target=_blank} |
+| 142 | 2023.2.18  |        清井美那&椎名樱月&河濑诗        | [生肉](https://www.bilibili.com/video/BV1WA41127AC){target=_blank} |
 | 143 | 2023.2.25  |       月城咲舞&宫濑玲奈&麻丘真央        | [生肉](https://www.bilibili.com/video/BV1TY411C7Nt){target=_blank} |
 | 144 |  2023.3.4  |       月城咲舞&宫濑玲奈&麻丘真央        | [生肉](https://www.bilibili.com/video/BV1Xs4y1L7bP){target=_blank} |
 | 145 | 2023.3.11  |        四条月&河濑诗&白泽加奈惠        | [生肉](https://www.bilibili.com/video/BV1aX4y1S7me){target=_blank} |
