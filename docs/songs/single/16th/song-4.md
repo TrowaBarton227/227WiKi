@@ -1,4 +1,4 @@
----
+﻿---
 title: 歌曲 -  蝉は夏を知らない
 template: comment.html
 ---
@@ -192,7 +192,7 @@ template: comment.html
 
 === "翻译"
     <center>
-    翻译来源：网易云音乐
+    翻译来源：抹茶塩
 
     柏油路上摇曳的热浪
 

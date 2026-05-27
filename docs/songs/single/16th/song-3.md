@@ -1,4 +1,4 @@
----
+﻿---
 title: 歌曲 -  乳酸菌たち
 template: comment.html
 ---
@@ -270,7 +270,7 @@ template: comment.html
 
 === "翻译"
     <center>
-    翻译来源：网易云音乐
+    翻译来源：抹茶塩
 
     EveryBody
 
