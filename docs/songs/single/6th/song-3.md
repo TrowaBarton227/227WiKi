@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  半炒饭
 template: comment.html
 ---
@@ -59,6 +59,11 @@ template: comment.html
 ## 简介
 
 《半炒饭》是收录在22/7第6张单曲《风在吹吗?》完全盘中的收录曲，作词由秋元康负责，作曲由Daichi Hamazaki、Gaku Sawagashira、Akio Nakada负责，编曲由Yuichi Ohno负责，单曲于2020年9月30日正式发售，总时长3分49秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=627847803&bvid=BV1rt4y1a7u5&cid=255721881&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1rt4y1a7u5){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=s_VUSolZX0c){ .md-button .md-button--primary }
 
 ## 歌词
 

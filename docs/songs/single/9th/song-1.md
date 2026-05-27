@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  曇り空の向こうは晴れている
 template: comment.html
 ---
@@ -61,6 +61,15 @@ template: comment.html
 ## 简介
 
 《曇り空の向こうは晴れている》是收录在22/7第9张单曲《曇り空の向こうは晴れている》中的同名主打曲，也是二期体制首次参与的单曲，作词由秋元康负责，作曲、编曲由Tatsuya Tanabiki、Satoshi Nakayama负责，单曲于2022年7月27日正式发售，总时长4分55秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1104746149&bvid=BV13w4m1D7y1&cid=1544448316&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV13w4m1D7y1){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=Mh9E1iZxoHs){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1054747456&bvid=BV18H4y1u7kB&cid=1544512054&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV18H4y1u7kB){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=UlqWsGKCius){ .md-button .md-button--primary }
 
 ## 歌词
 

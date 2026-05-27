@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  YESとNOの間に
 template: comment.html
 ---
@@ -63,6 +63,15 @@ template: comment.html
 ## 简介
 
 《YESとNOの間に》是收录在22/7第13张单曲《YESとNOの間に》中的同名主打曲，同时也是动画《ATRI -My Dear Moments-》的片尾曲。歌曲作词由秋元康负责，作曲由YU-JIN、SHIN负责，编曲由YU-JIN负责，先行配信于2024年7月21日开始，单曲于2024年10月30日正式发售，总时长4分11秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789057628236&bvid=BV1ag3uzoEjA&cid=30830693500&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1ag3uzoEjA){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=t02p504QfAc){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789527328548&bvid=BV13J33zbE5W&cid=30830759106&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV13J33zbE5W){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=Nsq4lg5aeig){ .md-button .md-button--primary }
 
 ## 歌词
 

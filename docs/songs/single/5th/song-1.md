@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  太难了
 template: comment.html
 ---
@@ -63,6 +63,11 @@ template: comment.html
 ## 简介
 
 《太难了》是收录在22/7第5张单曲《太难了》中的同名主打曲，也是电视动画《22/7》的片头曲和第12话片尾曲，作词由秋元康负责，作曲、编曲由Goji Koto (ck510)负责，单曲于2020年2月26日正式发售，总时长4分07秒，取得了Oricon第二名的位置。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1854575035&bvid=BV1Ms421P7L4&cid=1544109149&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Ms421P7L4){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=J9JQrg1ugsk){ .md-button .md-button--primary }
 
 ## 歌词
 

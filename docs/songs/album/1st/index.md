@@ -216,4 +216,9 @@ template: comment.html
         >
 </meting-js>
 
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=761383514&bvid=BV1Z64y1t7LX&cid=361309928&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Z64y1t7LX){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=UHdSCRu9ZdQ){ .md-button .md-button--primary }
+
 <!-- gitalk -->

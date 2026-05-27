@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  お姉ちゃんだから
 template: comment.html
 ---
@@ -64,6 +64,15 @@ template: comment.html
 
 《お姉ちゃんだから》是收录在22/7第16张单曲《二つの道》通常盘中的收录曲，单曲于2026年4月22日正式发售。
 
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=116629216170270&bvid=BV1H2GJ6dEqu&cid=38580194014&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1H2GJ6dEqu){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=P_r0YWlV7Po){ .md-button .md-button--primary }
+=== "Lyric Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=116551135010096&bvid=BV1Hp5J6FEAu&cid=38243010002&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Hp5J6FEAu){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=EP-g_-wpLb8){ .md-button .md-button--primary }
+    
 ## 歌词
 
 === "日语"

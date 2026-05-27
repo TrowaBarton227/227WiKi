@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  命の続き
 template: comment.html
 ---
@@ -61,6 +61,11 @@ template: comment.html
 ## 简介
 
 《命の続き》是收录在22/7第10张单曲《神様だって決められない》中的共通曲，作词由秋元康负责，作曲、编曲由Agasa.K、Yuta Sakai负责，原定于2022年11月16日发售，后延期至2023年1月11日正式发售，总时长3分20秒。
+
+=== "the 3rd ver. Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=115740610923213&bvid=BV1piqHBZEWZ&cid=34822754121&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1piqHBZEWZ){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=WmrkIs4x_eY){ .md-button .md-button--primary }
 
 ## 歌词
 

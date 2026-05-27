@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  あなたでなくちゃ
 template: comment.html
 ---
@@ -63,6 +63,15 @@ template: comment.html
 ## 简介
 
 《あなたでなくちゃ》是收录在22/7第15张单曲《あなたでなくちゃ》中的同名主打曲，同时也是动画《カッコウの許嫁 Season2》的片尾曲。歌曲作词由秋元康负责，作曲、编曲由中山翔吾负责，先行配信于2025年4月7日开始，单曲于2025年7月16日正式发售，总时长3分21秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789040787293&bvid=BV1gG3uzxEf1&cid=30830628052&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1gG3uzxEf1){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=NkmkyggvPns){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789107894951&bvid=BV15K3uz8EN4&cid=30830953466&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV15K3uz8EN4){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=mIZmSfvuLZM){ .md-button .md-button--primary }
 
 ## 歌词
 

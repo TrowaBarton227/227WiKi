@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  温柔的记忆
 template: comment.html
 ---
@@ -61,6 +61,11 @@ template: comment.html
 ## 简介
 
 《温柔的记忆》是收录在22/7第2张单曲《散发出了香波的气息》完全生产限定盘Type-A中的曲目，作词由秋元康负责，作曲和编曲由大冢刚毅负责，单曲于2018年4月11日正式发售，总时长4分23秒，首周取得了Oricon周榜第八名的位置。
+
+=== "振付映像"
+    <iframe src="https://player.bilibili.com/player.html?aid=748620175&bvid=BV1TC4y177nr&cid=1336726027&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1TC4y177nr){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=jXiUG1QX_SY){ .md-button .md-button--primary }
 
 ## 歌词
 

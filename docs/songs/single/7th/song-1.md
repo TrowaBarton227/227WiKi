@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  若是我的所有之物
 template: comment.html
 ---
@@ -61,6 +61,11 @@ template: comment.html
 ## 简介
 
 《若是我的所有之物》是收录在22/7第7张单曲《若是我的所有之物》中的同名主打曲，也是游戏《22/7 音楽の時間》中“Holy Night's Trouble Gift”活动的主题曲，作词由秋元康负责，作曲由OzaShin负责，编曲由Nonaka "Masa" Yuichi负责，单曲于2021年2月24日正式发售，总时长4分43秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1404666374&bvid=BV1jr421j7PH&cid=1544135359&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1jr421j7PH){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=wfhOmvXL0i0){ .md-button .md-button--primary }
 
 ## 歌词
 

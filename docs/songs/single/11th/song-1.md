@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  僕は今夜、出て行く
 template: comment.html
 ---
@@ -59,6 +59,11 @@ template: comment.html
 ## 简介
 
 《僕は今夜、出て行く》是收录在22/7第11张单曲《僕は今夜、出て行く》中的同名主打曲，作词由秋元康负责，作曲、编曲由YouSee负责，原定于2023年4月5日发售，后延期至2023年5月24日正式发售，总时长4分34秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1804570018&bvid=BV1Ab42187aa&cid=1544597156&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Ab42187aa){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=87IzmBR3v4o){ .md-button .md-button--primary }
 
 ## 歌词
 

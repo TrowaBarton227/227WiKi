@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  因为还有未来
 template: comment.html
 ---
@@ -63,6 +63,15 @@ template: comment.html
 ## 简介
 
 《因为还有未来》是收录在22/7第3张单曲《理解者》通常盘中的曲目，作词由秋元康负责，作曲由Takahiro Minato负责，编曲由Makoto Wakatabe负责，单曲于2018年8月22日正式发售，总时长4分32秒，取得了Oricon日榜第七名的位置。
+
+=== "振付映像"
+    <iframe src="https://player.bilibili.com/player.html?aid=36957608&bvid=BV1ut411R7aD&cid=64931394&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1ut411R7aD){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=zglfZlzkd7Y){ .md-button .md-button--primary }
+=== "the 3rd ver. Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=116154420955374&bvid=BV1H5PgztEH6&cid=36380018308&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1H5PgztEH6){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=diy5shxxqMQ){ .md-button .md-button--primary }
 
 ## 歌词
 
