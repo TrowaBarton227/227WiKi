@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  感情無用論
 template: comment.html
 ---
@@ -114,7 +114,7 @@ template: comment.html
 
 === "翻译"
     <center>
-    翻译来源：未标注
+    翻译来源：网易云音乐
 
     不需要感情
 

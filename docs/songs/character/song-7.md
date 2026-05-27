@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  Moonlight
 template: comment.html
 ---
@@ -104,7 +104,7 @@ template: comment.html
 
 === "翻译"
     <center>
-    翻译来源：未标注
+    翻译来源：网易云音乐
 
     其实我藏着
 
