@@ -1,10 +1,10 @@
 ---
-title: 四条月(十条月)
+title: 毕业成员 - 四条月
 template: comment.html
 ---
 ???+ quote "ひとこと"
     お月様のように皆さんを照らせる存在でありたいです
-!!! general inline end "四条月(十条月)"
+!!! general inline end "十条月"
     === "十条月时期"
 
         ![十条月时期照片](https://res.227wiki.eu.org/photo/luna/LunaJujo.webp){ loading=lazy }
@@ -47,11 +47,11 @@ template: comment.html
 
     --------
 
-    <b>姓名</b>   四条月
+    <b>姓名</b>   十条月
 
     --------
 
-    <b>其他艺名</b>   十条月
+    <b>22/7时期艺名</b>   四条月
 
     --------
 
