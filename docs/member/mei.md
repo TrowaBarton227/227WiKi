@@ -109,6 +109,10 @@ template: comment.html
 
 - 12月30日，成为ACROSS ENTERTAINMENT所属，并将艺名由“浅仓唯”改为“椛岛光”。
 
+## 采访
+
+<iframe src="https://player.bilibili.com/player.html?aid=25012839&bvid=BV1NW411c7sF&cid=42269101&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+
 ## 相关
 
 - 22/7时期的昵称是「めいめい」、「めいちゃん」
