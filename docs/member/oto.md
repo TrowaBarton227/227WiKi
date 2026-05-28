@@ -94,7 +94,7 @@ template: comment.html
 - 喜欢的22/7歌曲是[君は誰だ?](/songs/unit/#晴れた日のベンチ)
 
 === "加法中"
-    <iframe src="https://player.bilibili.com/player.html?aid=851965133&bvid=BV1EL4y137JZ&cid=540736855&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="70%" height="504"> </iframe>
+    <iframe src="https://player.bilibili.com/player.html?aid=851965133&bvid=BV1EL4y137JZ&cid=540736855&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1EL4y137JZ){ .md-button .md-button--primary }
     [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=Ottouh4wEyQ){ .md-button .md-button--primary }
 

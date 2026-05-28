@@ -83,7 +83,7 @@ template: comment.html
 - 喜欢的22/7歌曲是[地下鉄抵抗主義](/songs/single/1st/song-2/)
 
 === "加法中"
-    <iframe src="https://player.bilibili.com/player.html?aid=979488075&bvid=BV1P44y1M7nZ&cid=540924451&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="70%" height="504"> </iframe>
+    <iframe src="https://player.bilibili.com/player.html?aid=979488075&bvid=BV1P44y1M7nZ&cid=540924451&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1P44y1M7nZ){ .md-button .md-button--primary }
     [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=QOSxFCkaSPM){ .md-button .md-button--primary }
 

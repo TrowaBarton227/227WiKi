@@ -126,7 +126,7 @@ template: comment.html
 - 曾表示自己喜欢比较适合跳舞、气氛明快的歌曲
 
 === "加法中"
-    <iframe src="https://player.bilibili.com/player.html?aid=509375180&bvid=BV1pu411D7ZW&cid=540728652&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="70%" height="504"> </iframe>
+    <iframe src="https://player.bilibili.com/player.html?aid=509375180&bvid=BV1pu411D7ZW&cid=540728652&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1pu411D7ZW){ .md-button .md-button--primary }
     [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=KgXJWUR46-8){ .md-button .md-button--primary }
 
