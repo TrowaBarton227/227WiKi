@@ -56,6 +56,10 @@ template: comment.html
 
 《风信子》是收录在22/7第1张专辑《11という名の永遠の素数》中的专辑新曲，作词由秋元康负责，作曲、编曲由佐々木淳一负责，原定于2021年6月30日发售，后延期至2021年7月14日正式发售，总时长4分35秒。歌曲于专辑发售前的2021年5月26日先行配信。
 
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=761383514&bvid=BV1Z64y1t7LX&cid=361309928&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Z64y1t7LX){ .md-button .md-button--primary }
+
 ## 歌词
 
 === "日语"

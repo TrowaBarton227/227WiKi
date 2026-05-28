@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  风在吹吗?
 template: comment.html
 ---
@@ -59,6 +59,18 @@ template: comment.html
 ## 简介
 
 《风在吹吗?》是收录在22/7第6张单曲《风在吹吗?》中的同名主打曲，也是游戏《22/7 音楽の時間》的主题曲，作词由秋元康负责，作曲由Ryosuke Hosoi负责，编曲由Takahiro Furukawa负责，单曲于2020年9月30日正式发售，总时长4分42秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1654708835&bvid=BV1H7421f75F&cid=1544124730&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1H7421f75F){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=Hl1SvbaI0ls){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1854683909&bvid=BV1fs421c7BS&cid=1544128590&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1fs421c7BS){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=PO78JmxBIbM){ .md-button .md-button--primary }
+=== "Dance Video定点版"
+    <iframe src="https://player.bilibili.com/player.html?aid=939901127&bvid=BV1FW4y1k79b&cid=746041070&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1FW4y1k79b){ .md-button .md-button--primary }
 
 ## 歌词
 

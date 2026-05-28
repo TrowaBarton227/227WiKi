@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  不确定的青春
 template: comment.html
 ---
@@ -63,6 +63,10 @@ template: comment.html
 ## 简介
 
 《不确定的青春》是收录在22/7第3张单曲《理解者》完全生产限定盘Type-B中的曲目，作词由秋元康负责，作曲由Waterloo负责，编曲由Naoki Endo负责，单曲于2018年8月22日正式发售，总时长5分09秒，取得了Oricon日榜第七名的位置。
+
+=== "振付映像"
+    <iframe width="100%" height="720" src="https://www.youtube.com/embed/KELtC1Ca0vc?si=YXtDcExQjQcb1PKu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=KELtC1Ca0vc){ .md-button .md-button--primary }
 
 ## 歌词
 

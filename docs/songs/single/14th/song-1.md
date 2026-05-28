@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  ロックは死なない
 template: comment.html
 ---
@@ -61,6 +61,15 @@ template: comment.html
 ## 简介
 
 《ロックは死なない》是收录在22/7第14张单曲《ロックは死なない》中的同名主打曲，同时也是动画《不遇職【鑑定士】が実は最強だった》的片尾曲。歌曲作词由秋元康负责，作曲由シライシ紗トリ、Kuboty负责，编曲由シライシ紗トリ负责，先行配信于2025年1月10日开始，单曲于2025年2月26日正式发售，总时长3分50秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789107893600&bvid=BV15K3uz8EJ2&cid=30830824561&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV15K3uz8EJ2){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=r-UKTpVMZfs){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789107893357&bvid=BV15K3uz8ELj&cid=30830887927&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV15K3uz8ELj){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=PzehIVO3O0Q){ .md-button .md-button--primary }
 
 ## 歌词
 

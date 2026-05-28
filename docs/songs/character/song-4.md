@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  優等生じゃつまらない
 template: comment.html
 ---
@@ -35,6 +35,7 @@ template: comment.html
 === "Anime ED"
     <iframe src="https://player.bilibili.com/player.html?aid=89307907&bvid=BV1j7411n7Lw&cid=218933685&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1j7411n7Lw){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=4Ku0EhS-OOc){ .md-button .md-button--primary }
 
 ## 歌词
 

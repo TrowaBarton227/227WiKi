@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  觉醒
 template: comment.html
 ---
@@ -61,6 +61,11 @@ template: comment.html
 ## 简介
 
 《觉醒》是收录在22/7第8张单曲《觉醒》中的同名主打曲，作词由秋元康负责，作曲、编曲由YU-JIN负责，单曲于2021年11月24日正式发售，总时长4分15秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=1454521479&bvid=BV1Gi421X7Hv&cid=1544438909&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Gi421X7Hv){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=0G13oI9rhcc){ .md-button .md-button--primary }
 
 ## 歌词
 

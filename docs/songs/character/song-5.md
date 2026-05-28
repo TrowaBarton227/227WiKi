@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  人生はワルツ
 template: comment.html
 ---
@@ -35,6 +35,7 @@ template: comment.html
 === "Anime ED"
     <iframe src="https://player.bilibili.com/player.html?aid=91025168&bvid=BV1nj411f7FJ&cid=218935374&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1nj411f7FJ){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=E35pqNJtKps){ .md-button .md-button--primary }
 
 ## 歌词
 

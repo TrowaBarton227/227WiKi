@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  One of them
 template: comment.html
 ---
@@ -35,6 +35,7 @@ template: comment.html
 === "Anime ED"
     <iframe src="https://player.bilibili.com/player.html?aid=85032124&bvid=BV1g7411k7sW&cid=195830529&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1g7411k7sW){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=LdKdX5K5czg){ .md-button .md-button--primary }
 
 ## 歌词
 

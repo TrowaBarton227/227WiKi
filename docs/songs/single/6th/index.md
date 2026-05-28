@@ -134,5 +134,8 @@ template: comment.html
     <iframe src="https://player.bilibili.com/player.html?aid=1854683909&bvid=BV1fs421c7BS&cid=1544128590&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1fs421c7BS){ .md-button .md-button--primary }
     [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=PO78JmxBIbM){ .md-button .md-button--primary }
+=== "Dance Video定点版"
+    <iframe src="https://player.bilibili.com/player.html?aid=939901127&bvid=BV1FW4y1k79b&cid=746041070&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1FW4y1k79b){ .md-button .md-button--primary }
 
 <!-- gitalk -->

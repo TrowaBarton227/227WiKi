@@ -56,6 +56,11 @@ template: comment.html
 
 《理論物理学的　僕の推論》是收录在22/7第3张专辑《ABC予想》中的专辑新曲，也是该专辑的主打曲，作词由秋元康负责，作曲由湊谷陸负责，编曲由YouSee负责，专辑于2025年12月10日正式发售，总时长3分30秒。
 
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=115713616381624&bvid=BV1oqmoBgEwA&cid=34722875194&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1oqmoBgEwA){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=HHqcnop5Xco){ .md-button .md-button--primary }
+
 ## 歌词
 
 === "日语"

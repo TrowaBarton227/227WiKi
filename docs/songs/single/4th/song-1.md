@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  什么都无法为你做到
 template: comment.html
 ---
@@ -63,6 +63,11 @@ template: comment.html
 ## 简介
 
 《什么都无法为你做到》是收录在22/7第4张单曲《什么都无法为你做到》中的同名主打曲，作词由秋元康负责，作曲由Satoshi Ikezawa负责，编曲由Takahiro Furukawa负责，单曲于2019年8月21日正式发售，总时长4分36秒，取得了Oricon日榜、周榜第四名的位置。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=306237943&bvid=BV1VA41197MZ&cid=922105156&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1VA41197MZ){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=frO6XqKCeZ0){ .md-button .md-button--primary }
 
 ## 歌词
 

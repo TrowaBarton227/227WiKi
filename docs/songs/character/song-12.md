@@ -35,6 +35,7 @@ template: comment.html
 === "Music Vedio"
     <iframe src="https://player.bilibili.com/player.html?aid=116329289947919&bvid=BV1pT9JBZERC&cid=37151966778&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1pT9JBZERC){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=uakW-VAKX3o){ .md-button .md-button--primary }
 
 ## 歌词
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  绝望之花
 template: comment.html
 ---
@@ -63,6 +63,11 @@ template: comment.html
 ## 简介
 
 《绝望之花》是收录在22/7第3张单曲《理解者》中的共通曲，作词由秋元康负责，作曲由Nakatani Atsuko负责，编曲由APAZZI负责，单曲于2018年8月22日正式发售，总时长5分10秒，取得了Oricon日榜第七名的位置。
+
+=== "振付映像"
+    <iframe src="https://player.bilibili.com/player.html?aid=37317116&bvid=BV1Bt411D7LR&cid=65590241&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Bt411D7LR){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=_8yMCsj-Uhg){ .md-button .md-button--primary }
 
 ## 歌词
 

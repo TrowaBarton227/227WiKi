@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  韦驮天娘
 template: comment.html
 ---
@@ -63,6 +63,11 @@ template: comment.html
 ## 简介
 
 《韦驮天娘》是收录在22/7第3张单曲《理解者》完全生产限定盘Type-A中的曲目，作词由秋元康负责，作曲由Takeshi Otsuka负责，编曲由Takahiro Furukawa负责，单曲于2018年8月22日正式发售，总时长4分33秒，取得了Oricon日榜第七名的位置。
+
+=== "振付映像"
+    <iframe src="https://player.bilibili.com/player.html?aid=917660847&bvid=BV17u4y1Y7DK&cid=1313184277&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV17u4y1Y7DK){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=Q06ZtjTPZqI){ .md-button .md-button--primary }
 
 ## 歌词
 

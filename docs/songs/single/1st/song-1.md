@@ -73,12 +73,13 @@ template: comment.html
         >
 </meting-js>
 
-## MV
-!!! success "提示"
-
-    B站弹幕已嵌入
-<div id="dplayer1">
-    </div>
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=373098921&bvid=BV1vZ4y1g7uS&cid=369475374&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1vZ4y1g7uS){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=lKGDCoRjlCk){ .md-button .md-button--primary }
+=== "Lyric Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=12491357&bvid=BV1Xx411i7Wb&cid=20556630&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Xx411i7Wb){ .md-button .md-button--primary }
 
 ## 歌词
 

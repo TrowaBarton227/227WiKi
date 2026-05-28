@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  後でわかること
 template: comment.html
 ---
@@ -61,6 +61,15 @@ template: comment.html
 ## 简介
 
 《後でわかること》是收录在22/7第12张单曲《後でわかること》中的同名主打曲，作词由秋元康负责，作曲由高木龍一、斉藤信治负责，编曲由高木龍一负责，原定于2024年4月17日发售，后延期至2024年5月1日正式发售，总时长4分27秒。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114796288542244&bvid=BV1153Uz4EXD&cid=30855989652&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1153Uz4EXD){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=HwOtrYzcVXo){ .md-button .md-button--primary }
+=== "Dance Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=114789074340884&bvid=BV1uL3uzWEnt&cid=30830757128&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1uL3uzWEnt){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=R54CPPzrAyQ){ .md-button .md-button--primary }
 
 ## 歌词
 

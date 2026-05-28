@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  理解者
 template: comment.html
 ---
@@ -63,6 +63,11 @@ template: comment.html
 ## 简介
 
 《理解者》是收录在22/7第3张单曲《理解者》中的同名主打曲，作词由秋元康负责，作曲由Yukito负责，编曲由Takahiro Furukawa负责，单曲于2018年8月22日正式发售，总时长4分40秒，取得了Oricon日榜第七名的位置。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=458124211&bvid=BV1q5411G7nj&cid=369481376&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1q5411G7nj){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=DB98rK3xnbU){ .md-button .md-button--primary }
 
 ## 歌词
 

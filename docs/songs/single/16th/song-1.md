@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  二つの道
 template: comment.html
 ---
@@ -63,6 +63,11 @@ template: comment.html
 ## 简介
 
 《二つの道》是收录在22/7第16张单曲《二つの道》中的同名主打曲，同时也是动画《最強の王様、二度目の人生は何をする？》第二季的片尾曲。歌曲作词由秋元康负责，作曲由Chisayo Komiyama负责，编曲由Kouki Yokoyama负责，先行配信于2026年1月21日开始，单曲于2026年4月22日正式发售。
+
+=== "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=116335262636614&bvid=BV1nq9FBiEmk&cid=37179756284&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1nq9FBiEmk){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=gaPA7q3nd58){ .md-button .md-button--primary }
 
 ## 歌词
 
