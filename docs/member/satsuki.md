@@ -116,6 +116,12 @@ template: comment.html
 - 在表演22/7过去的歌曲时，经常演唱高辻丽的part
 - 喜欢的22/7歌曲是[僕のホロスコープ](/songs/unit/#蛍光灯再生計画)
 
+## 加法中
+    <iframe src="https://player.bilibili.com/player.html?aid=637016112&bvid=BV1nb4y1W75o&cid=543077288&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="70%" height="504"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1nb4y1W75o){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=dPR-cQI3Csw){ .md-button .md-button--primary }
+
+
 ## FREE TALK
 
 <div id="dplayer"></div>
