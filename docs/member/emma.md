@@ -113,7 +113,7 @@ template: comment.html
 - 被其他成员称作王子
 - 曾和一期生武田爱奈一起吃饭，虽然两人没有在22/7同一时期活动过，但爱奈提到两人的思考方式相似，所以很合得来
 
-## 加法中
+=== "加法中"
     <iframe src="https://player.bilibili.com/player.html?aid=682109969&bvid=BV1EU4y1o7dh&cid=543256786&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="70%" height="504"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1EU4y1o7dh){ .md-button .md-button--primary }
     [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=awlFsjOXTDs){ .md-button .md-button--primary }
