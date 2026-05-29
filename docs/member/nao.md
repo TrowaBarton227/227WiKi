@@ -107,8 +107,8 @@ template: comment.html
 - 喜欢的22/7歌曲是[最后的钢琴](/songs/unit/#白组)
 - 认为自己和西条和是完全相反的类型
 
-## 加法中
-    <iframe src="https://player.bilibili.com/player.html?aid=936901696&bvid=BV1yT4y1Q7PT&cid=540685732&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="70%" height="504"> </iframe>
+=== "加法中"
+    <iframe src="https://player.bilibili.com/player.html?aid=936901696&bvid=BV1yT4y1Q7PT&cid=540685732&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1yT4y1Q7PT){ .md-button .md-button--primary }
     [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=Ytcjw7_YP1w){ .md-button .md-button--primary }
 
